@@ -1,1 +1,1 @@
-# yt-github-tuts
+# YouTube GitHub Tutorial
